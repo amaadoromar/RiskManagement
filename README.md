@@ -25,7 +25,7 @@ This is a web-based risk management system developed using PHP, CSS, and JavaScr
 3 - Change Database connection informations in config/db.php
 
     $connection=mysqli_connect("localhost", "root", "", "gestiondesrisques");
-    
+
     gestiondesrisques is the name of your recently created database.
 4 - Use admin/admin for login
 
