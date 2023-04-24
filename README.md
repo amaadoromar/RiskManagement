@@ -16,6 +16,7 @@ This is a web-based risk management system developed in 2022 as a personal proje
 
  - PHP
  - CSS
+ - Bootstrap
  - JavaScript
  - MySQL
  
