@@ -1,6 +1,6 @@
 # Risk Management System
 
-This is a web-based risk management system developed in 2022 as a personal project to sharpen my skills in PHP, CSS, and JavaScript. The system is designed to help organizations manage and mitigate potential risks by allowing them to identify, assess, and prioritize risks based on their likelihood and impact.
+This is a web-based risk management system developed in 2022 as a personal project to sharpen my skills in PHP, CSS, JavaScript and SQL. The system is designed to help organizations manage and mitigate potential risks by allowing them to identify, assess, and prioritize risks based on their likelihood and impact.
 
 # Features
 
